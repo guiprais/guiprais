@@ -1,4 +1,4 @@
-# **Olá, me chamo Guilherme de Prais **
+# Olá, me chamo Guilherme de Prais 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/guilherme-de-prais/)](https://www.linkedin.com/in/guilherme-de-prais/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&color=black&link=mailto:guilherme.prais@gmail.com)](mailto:guilherme.prais@gmail.com)
