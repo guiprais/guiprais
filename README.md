@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instragram-6633cc?style=flat-square&logo=Instagram&logoColor=white&color=black&link=https://www.instagram.com/guiprais/)](https://www.instagram.com/guiprais/)
 [![RocketSeat Badge](https://img.shields.io/badge/-RocketSeat-6633cc?style=flat-square&logo=Polymer-Project&logoColor=white&color=black&link=https://app.rocketseat.com.br/me/guilherme-de-prais)](https://app.rocketseat.com.br/me/guilherme-de-prais)
 
-Tenho 25 anos, sou formado em **Engenharia Civil** e apaixonado por cultura pop: filmes, séries, animações, livros, quadrinhos e tecnologia, um *Geek* por natureza. Em **Outubro de 2020**, para fugir de uma carreira profissional que me deixava infeliz, busquei refúgio na programação, e logo de cara me senti extremamente apaixonado. 
+Tenho 25 anos, sou formado em **Engenharia Civil** e apaixonado por cultura pop: filmes, séries, animações, livros, quadrinhos e tecnologia, um *Geek* por natureza. No **final de 2020**, para fugir de uma carreira profissional que me deixava infeliz, busquei refúgio na programação, e logo de cara me senti extremamente apaixonado. 
 
 Anseio por aprender cada vez mais, por me tornar um Desenvolvedor Full Stack e espero conseguir me desenvolver profissionalmente para viver disso.
 
