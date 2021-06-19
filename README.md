@@ -11,3 +11,10 @@ Anseio por aprender cada vez mais, por me tornar um Desenvolvedor Full Stack e e
 Estou no começo da minha jornada, mas tenho certeza que o caminho que irei trilhar será longo e promissor.
 
 *"With great power comes great responsibility"* 🕷️
+
+<a href="https://github.com/guiprais?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guiprais&hide=stars,issues&count_private=true&show_icons=true&theme=midnight-purple" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiprais&layout=compact&theme=midnight-purple" />
+</a>
