@@ -14,8 +14,8 @@ Anseio por aprender cada vez mais, por me tornar um Desenvolvedor Full Stack e e
 HTML5 • CSS3 • JavaScript ES6+ • ReactJS • Redux • Jest • RTL • SASS • Tailwind CSS
 
 <a href="https://github.com/guiprais?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guiprais&hide=stars,issues&count_private=true&show_icons=true&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guiprais&hide=stars,issues&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" />
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiprais&layout=compact&langs_count=6&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiprais&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true" />
 </a>
