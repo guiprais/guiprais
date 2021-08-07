@@ -17,5 +17,5 @@ HTML5 • CSS3 • JavaScript ES6+ • ReactJS • Redux • Jest • RTL • SA
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=guiprais&hide=stars,issues&count_private=true&show_icons=true&theme=midnight-purple" />
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiprais&layout=compact&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiprais&layout=compact&langs_count=6&theme=midnight-purple" />
 </a>
