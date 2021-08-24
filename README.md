@@ -11,7 +11,7 @@ Anseio por aprender cada vez mais, por me tornar um Desenvolvedor Full Stack e e
 *"With great power comes great responsibility"* 🕷️
 
 **Frond-End skills:**  
-HTML5 • CSS3 • JavaScript ES6+ • ReactJS • Redux • Jest • RTL • SASS • Tailwind CSS
+HTML5 • CSS3 • JavaScript ES6+ • ReactJS • Redux • Jest • RTL • SASS • Tailwind CSS • Styled Components
 
 <a href="https://github.com/guiprais?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=guiprais&hide=issues&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" />
