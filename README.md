@@ -6,8 +6,6 @@
 
 Tenho 28 anos, sou formado em **Engenharia Civil** e apaixonado por cultura pop: filmes, séries, animações, livros, quadrinhos, mangás e tecnologia, sou um completo *Geek*. No **início de 2021**, para fugir de uma carreira profissional que me deixava infeliz, busquei refúgio na programação, e logo de cara me senti extremamente apaixonado. 
 
-Anseio por aprender cada vez mais, por me tornar um Desenvolvedor Full Stack e espero conseguir me desenvolver profissionalmente para viver disso.
-
 *"With great power comes great responsibility"* 🕷️
 
 **Frond-End skills:**  
